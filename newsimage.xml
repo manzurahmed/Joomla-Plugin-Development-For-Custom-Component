@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.1" type="plugin" group="deshtvshortcodes" method="upgrade">
+	<name>plg_deshtvshortcodes_newsimage</name>
+	<author>Manzur Ahmed</author>
+	<creationDate>September 2018</creationDate>
+	<copyright>Copyright (C) 2018 - Manzur Ahmed. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later</license>
+	<authorEmail>monjur.ahmed@gmail.com</authorEmail>
+	<authorUrl>www.webtechriser.com</authorUrl>
+	<version>1.1.0</version>
+	<description>PLG_NEWSIMAGE_XML_DESCRIPTION</description>
+	<files>
+		<filename plugin="newsimage">newsimage.php</filename>
+	</files>
+	<languages>
+		<language tag="en-GB">language/en-GB/en-GB.plg_deshtvshortcodes_newsimage.ini</language>
+		<language tag="en-GB">language/en-GB/en-GB.plg_deshtvshortcodes_newsimage.sys.ini</language>
+	</languages>
+</extension>
